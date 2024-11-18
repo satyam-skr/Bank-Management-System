@@ -1,0 +1,24 @@
+Vikram Ahuja  
+Branch Manager  
+Delhi 25051985 12082010 65000  
+Simran Kaur  
+Loan Officer  
+Delhi 15091990 18072016 45000  
+Ankit Mehra  
+Clerk  
+Delhi 20081994 05122020 30000  
+Ritika Sharma  
+Cashier  
+Delhi 12071993 01022019 32000  
+Ishaan Roy  
+Accountant  
+Delhi 31031987 15112014 40000  
+Neha Kapoor  
+Assistant Manager  
+Delhi 05081988 24032013 48000  
+Arjun Sethi  
+Operations Manager  
+Delhi 07011984 22062009 58000  
+suresh
+branch manager
+Delhi 8052001 9122017 550000

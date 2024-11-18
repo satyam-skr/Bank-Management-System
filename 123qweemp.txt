@@ -1,0 +1,9 @@
+bank emp 1
+manager
+north 24234234 4334343 3244343
+ram kumnar pokhariyal
+clerk
+north 243242 242424 23423
+test
+twst2
+trws 343234 234234 4323
