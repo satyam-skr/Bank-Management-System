@@ -1,0 +1,21 @@
+Aarav Sharma  
+Cashier 
+15031985 22062015 40000  
+Meera Singh  
+Accountant  
+12051990 11092018 35000  
+Rohan Verma  
+Branch Manager  
+25081988 15032012 60000  
+Priya Kapoor  
+Cashier  
+04021992 01122019 30000  
+Kabir Malhotra  
+Clerk  
+18071995 07072021 25000  
+Nisha Patel  
+Assistant Manager  
+10041987 15092014 45000  
+Rajiv Gupta  
+Operations Manager  
+20011983 10062010 55000  
